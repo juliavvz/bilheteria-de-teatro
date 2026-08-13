@@ -1,5 +1,5 @@
 ```markdown
-# 🎭 Bilheteria Teatro
+ 🎭 Bilheteria Teatro
 
 Sistema simples de controle de bilheteria para teatro com 600 lugares (15 fileiras × 40 poltronas).
 
